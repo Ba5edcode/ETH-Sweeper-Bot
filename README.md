@@ -2,8 +2,10 @@
 
 This script will sweeps all available ethers, tokens, nfts to your wallet. Support up to 30k addresses. Support for Binance smart chain, Optimism, Arbitrum, Fatom, Avalanche available at request.
 
-Full source code and instruction to run this tool avalaible at request on Telegram @ba5edcode
+Full source code and instruction to run this tool available at request on Telegram @ba5edcode
+**
 The purpose will be clear if you review the source code, as you will see that it's meant to sweep many addresses back to one address.
+**
 
 **How do Sweepers Work?**
 
@@ -13,8 +15,8 @@ A sweeper is some code that monitors the blockchain — including the txpool
 If you are the victim of a sweeper bot and need help frontrunning the bot, please contact me on telegram.
 
 There are two requirements needed to run the script:
-1. A wallet xPrivate key or mnemonic
-An Ethereum provider
+1. A wallet xPrivate key or mnemonic,
+2. An Ethereum provider
 
 ### Ethereum Provider
 
